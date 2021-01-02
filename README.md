@@ -9,9 +9,10 @@
 
 ## Installation
 1. Open the extensions sidebar on Visual Studio Code
-2. Search for Cypher theme
-3. Click Install 
-4. Click Reload to reload your editor 
+2. Search for BrittneyInBeta
+3. Click Cypher
+4. Click Install 
+5. Click Reload to reload your editor or Set to set as theme 
 5. Enjoy 
 
 ⭐⭐⭐⭐⭐ Rate first-stars 😜️

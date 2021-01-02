@@ -3,7 +3,7 @@
     "displayName": "Cypher",
     "description": "Cypher is a dark theme created for Visual Studio Code. This theme is part of my 'Brittney in Beta' collection. Check out my other work at @brittney.in.beta on Instagram.",
     "publisher": "BrittneyInBeta",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.52.0"
     },
