@@ -1,13 +1,24 @@
-# README
-## This is the README for your extension "cypher"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center">
+    <img alt="brittney.in.beta-selcouth theme icon" src="logo.png" width="200" />
+  </a>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Cypher Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> Cypher - a secret or disguised way of writing. A code. 🦄
+>
+> Cypher is a dark theme for those who dare to cypher through mundane and create products that are truly magical. 
 
-**Enjoy!**
+---
+## Color Palette
+![Screen Shot 2021-01-01 at 6 56 56 PM](https://user-images.githubusercontent.com/70024755/103449275-20c22600-4c63-11eb-9a3c-e883979b90c3.png)
+
+### Preview:
+
+<img width="1001" alt="Screen Shot 2021-01-01 at 6 47 31 PM" src="https://user-images.githubusercontent.com/70024755/103449258-f96b5900-4c62-11eb-8ecc-e2eda0c311ce.png">
+
+---
+
+
+📸 Instagram: <a href="https://www.instagram.com/brittney.in.beta/">Brittney.In.Beta</a>
+
+> More themes coming soon.
