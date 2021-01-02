@@ -1,0 +1,21 @@
+{
+    "name": "cypher",
+    "displayName": "Cypher",
+    "description": "Cypher is a dark theme created for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cypher",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cypher-color-theme.json"
+            }
+        ]
+    }
+}
