@@ -1,12 +1,20 @@
-<p align="center">
-    <img alt="brittney.in.beta-selcouth theme icon" src="logo.png" width="200" />
-  </a>
 
 ## Cypher Theme
 
 > Cypher - a secret or disguised way of writing. A code. 🦄
 >
-> Cypher is a dark theme for those who dare to cypher through mundane and create products that are truly magical. 
+> Cypher is a dark theme for those who dare to cypher through the mundane and create products that are truly magical. 
+
+---
+
+## Installation
+1. Open the extensions sidebar on Visual Studio Code
+2. Search for Cypher theme
+3. Click Install 
+4. Click Reload to reload your editor 
+5. Enjoy 
+
+⭐⭐⭐⭐⭐ Rate first-stars 😜️
 
 ---
 ## Color Palette

@@ -2,10 +2,14 @@
     "name": "cypher",
     "displayName": "Cypher",
     "description": "Cypher is a dark theme created for Visual Studio Code. This theme is part of my 'Brittney in Beta' collection. Check out my other work at @brittney.in.beta on Instagram.",
-    "publisher": "Brittney In Beta",
+    "publisher": "BrittneyInBeta",
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/desertdev2613/Cypher-theme"
     },
     "categories": [
         "Themes"
@@ -26,7 +30,7 @@
         "modern",
         "contrasting"
     ],
-    "icon": "logo.jpg",
+    "icon": "logo.png",
     "galleryBanner": {
         "color": "#000000",
         "theme": "dark"
