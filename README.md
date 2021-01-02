@@ -16,6 +16,13 @@
 
 <img width="1001" alt="Screen Shot 2021-01-01 at 6 47 31 PM" src="https://user-images.githubusercontent.com/70024755/103449258-f96b5900-4c62-11eb-8ecc-e2eda0c311ce.png">
 
+<img width="1003" alt="Screen Shot 2021-01-01 at 7 02 07 PM" src="https://user-images.githubusercontent.com/70024755/103449337-0b013080-4c64-11eb-84cd-50b5a2d71cee.png">
+
+<img width="1006" alt="Screen Shot 2021-01-01 at 7 02 26 PM" src="https://user-images.githubusercontent.com/70024755/103449339-0ccaf400-4c64-11eb-9249-5bb7c3911ef1.png">
+
+<img width="1000" alt="Screen Shot 2021-01-01 at 7 02 48 PM" src="https://user-images.githubusercontent.com/70024755/103449340-0d638a80-4c64-11eb-9317-724f32c0b706.png">
+
+
 ---
 
 
